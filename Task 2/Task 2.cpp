@@ -15,11 +15,11 @@ int main()
         }
         else
         {
-            cout << "Ошибка"
+            cout << "Ошибка";
         }
     }
     else
     {
-        cout << "x = " << -c / b
+        cout << "x = " << -c / b;
     }
 }
